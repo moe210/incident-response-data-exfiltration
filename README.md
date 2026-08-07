@@ -30,7 +30,7 @@ PowerShell Activity
 >
 Sensitive Finance Files Accessed
 >
-Data Exfiltration
+Suspected Data Exfiltration
 >
 External IP Address
 
@@ -59,4 +59,4 @@ External IP Address
 
 ## Conclusion
 
-The investigation identified a simulated compromise involving unauthorized access, privilege escalation, suspicious PowerShell activity, and suspected data exfiltration from a finance workstation.
+The investigation identified a simulated compromise involving unauthorized access, privilege escalation, suspicious PowerShell activity, and suspected exfiltration of sensitive financial data from a finance workstation.
